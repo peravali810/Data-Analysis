@@ -19,5 +19,3 @@ Explore datasets, visualize trends, and derive insights with Jupyter notebooks a
 
 ## 📦 Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Data-Analysis.git
